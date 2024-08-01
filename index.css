@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    text-align: center;
+    color: rgb(45, 145, 145);
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+    
+}
+div{
+    text-align: center;
+}
